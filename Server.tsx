@@ -1,5 +1,7 @@
+// Import maps写法，目前不稳定
+import { serve } from "http/server.ts";
 import React from 'https://dev.jspm.io/react'
-import { serve } from "https://deno.land/std@0.51.0/http/server.ts";
+// import { serve } from "https://deno.land/std@0.51.0/http/server.ts";
 import ReactDOMServer from 'https://dev.jspm.io/react-dom/server'
 import { App } from './App.tsx'
 

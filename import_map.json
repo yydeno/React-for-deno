@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "http/": "https://deno.land/std@0.51.0/http/",
+    "react": "https://dev.jspm.io/react",
+    "react-dom/": "https://dev.jspm.io/react-dom/"
+  }
+}
